@@ -1,0 +1,9 @@
+AWS
+
+public IPv4 address: 	54.169.194.14
+public IPv4 DNS: 	ec2-54-169-194-14.ap-southeast-1.compute.amazonaws.com
+Elastic IP Address:	54.169.194.14
+Private IPv4 Address:	172.31.47.173
+Private IPv4 DNS:	ip-172-31-47-173.ap-southeast-1.compute.internal
+Instance ID:		i-0d4afa96b51d07158
+VPC ID:			vpc-0b38c96d 

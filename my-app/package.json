@@ -1,0 +1,94 @@
+{
+  "name": "my-app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.34",
+    "@fortawesome/free-regular-svg-icons": "^5.15.2",
+    "@fortawesome/free-solid-svg-icons": "^5.15.2",
+    "@fortawesome/react-fontawesome": "^0.1.14",
+    "@stripe/react-stripe-js": "^1.2.1",
+    "@stripe/stripe-js": "^1.11.0",
+    "@testing-library/jest-dom": "^5.11.9",
+    "@testing-library/react": "^11.2.3",
+    "@testing-library/user-event": "^12.1.10",
+    "@types/cors": "^2.8.9",
+    "@types/jest": "^26.0.15",
+    "@types/jwt-simple": "^0.5.33",
+    "@types/node": "^12.0.0",
+    "@types/permit": "^0.2.1",
+    "@types/react": "^16.9.53",
+    "@types/react-dom": "^16.9.8",
+    "@types/react-redux": "^7.1.15",
+    "@types/react-router-dom": "^5.1.7",
+    "@types/reactstrap": "^8.7.2",
+    "@types/redux-thunk": "^2.1.0",
+    "@types/stripe": "^8.0.417",
+    "beauty-stars": "^1.1.0",
+    "bootstrap": "^4.6.0",
+    "connected-react-router": "^6.8.0",
+    "cors": "^2.8.5",
+    "cropperjs": "^1.5.9",
+    "history": "4.10.1",
+    "jwt-simple": "^0.5.6",
+    "moment-timezone": "^0.5.33",
+    "node-sass": "4.14.1",
+    "permit": "^0.2.4",
+    "pure-react-carousel": "^1.27.6",
+    "react": "^17.0.1",
+    "react-bootstrap": "^1.4.3",
+    "react-confirm-alert": "^2.7.0",
+    "react-dom": "^17.0.1",
+    "react-hook-form": "^6.14.2",
+    "react-innertext": "^1.1.5",
+    "react-loading": "^2.0.3",
+    "react-moment": "^1.1.1",
+    "react-player": "^2.8.2",
+    "react-rating-stars-component": "^2.2.0",
+    "react-redux": "^7.2.2",
+    "react-responsive-carousel": "^3.2.11",
+    "react-responsive-decorator": "^0.0.1",
+    "react-responsive-ui": "^0.14.200",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "4.0.1",
+    "react-spinners": "^0.10.4",
+    "react-star-rating-component": "^1.4.1",
+    "react-star-ratings": "^2.3.0",
+    "react-stripe-checkout": "^2.6.3",
+    "react-toastify": "^7.0.2",
+    "reactstrap": "^8.9.0",
+    "redux": "^4.0.5",
+    "redux-thunk": "^2.3.0",
+    "stripe": "^8.132.0",
+    "typescript": "^4.0.3",
+    "use-react-router": "^1.0.7",
+    "web-vitals": "^0.2.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@types/react-star-rating-component": "^1.4.0"
+  }
+}

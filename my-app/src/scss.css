@@ -1,0 +1,74 @@
+.line-container {
+  margin-top: 30vh;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  width: 100%;
+}
+
+.line-container .progress-line {
+  position: relative;
+  margin: 0 auto;
+  border-radius: 10px;
+  width: 90%;
+  background: grey;
+  height: 5px;
+  z-index: -1;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+.line-container .progress-line .progress {
+  position: absolute;
+  width: 75%;
+  height: 100%;
+  background: orange;
+  -webkit-transition: width 1s ease-in-out;
+  transition: width 1s ease-in-out;
+}
+
+.line-container .status {
+  position: relative;
+  top: -9.5px;
+}
+
+.line-container .status .dot {
+  width: 15px;
+  height: 15px;
+  border-radius: 50%;
+  background: white;
+  border: 5px solid grey;
+  cursor: pointer;
+}
+
+.line-container .status .dot.current {
+  background: white;
+  border: 5px solid orange;
+}
+
+.line-container .status .dot.completed {
+  position: relative;
+  background: orange;
+  border: 5px solid orange;
+}
+
+.line-container .status .dot.completed::after {
+  content: '';
+  position: absolute;
+  top: calc(50% - 5px);
+  left: calc(50% - 5.5px);
+  height: 5px;
+  width: 10px;
+  border-left: 2px solid white;
+  border-bottom: 2px solid white;
+  -webkit-transform-origin: center;
+          transform-origin: center;
+  -webkit-transform: rotate(-45deg);
+          transform: rotate(-45deg);
+  z-index: 2;
+}
+/*# sourceMappingURL=scss.css.map */

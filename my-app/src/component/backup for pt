@@ -1,0 +1,153 @@
+import React, { useState } from 'react';
+import Carousel from 'react-bootstrap/Carousel'
+import picture1 from './class2.jpg'
+import { Container, Row, Col } from 'reactstrap';
+
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import { faPlayCircle, faCheck, faChevronCircleRight, faChevronCircleLeft, faThumbsUp as faSolidThumb } from "@fortawesome/free-solid-svg-icons";
+
+import { faThumbsUp, faArrowAltCircleRight } from '@fortawesome/free-regular-svg-icons';
+import { Link } from 'react-router-dom';
+
+export function Profile() {
+
+
+    const [index, setIndex] = useState(0);
+    const handleSelect = (selectedIndex: any, e: any) => {
+        setIndex(selectedIndex);
+    }
+    const elementLeft = (<FontAwesomeIcon icon={faChevronCircleLeft}></FontAwesomeIcon>)
+    const elementRight = (<FontAwesomeIcon icon={faChevronCircleRight}></FontAwesomeIcon>)
+
+    const directionButtons = (direction: {} | null | undefined) => {
+        return (
+            <span
+                aria-hidden="true"
+                className={direction === "Next" ? "button-next" : "button-prev"}
+            >
+                {direction}
+            </span>
+        );
+    };
+
+    return (
+        <Container className="ptBorder">
+
+            <Row>
+
+                <Col sm={4}>
+                    <div className="ptPic">
+                        <Carousel className="board"
+                            nextLabel={"Next"}
+                            prevLabel={"Previous"}
+                            controls={true} activeIndex={index} onSelect={handleSelect} indicators={false} nextIcon={directionButtons(elementRight)}
+                            prevIcon={directionButtons(elementLeft)}>
+                            <Carousel.Item interval={2000}>
+                                <img
+                                    className="d-block w-100"
+                                    src={picture1}
+                                    alt="First slide"
+                                />
+
+                            </Carousel.Item>
+                            <Carousel.Item interval={1000}>
+                                <img
+                                    className="d-block w-100"
+                                    src={picture1}
+                                    alt="Second slide"
+                                />
+
+                            </Carousel.Item>
+                            <Carousel.Item>
+                                <img
+                                    className="d-block w-100"
+                                    src={picture1}
+                                    alt="Third slide"
+                                />
+
+                            </Carousel.Item>
+                        </Carousel>
+                    </div>
+                    <Row>
+                        <div className="rating">
+                            <FontAwesomeIcon className="thumbed" icon={faSolidThumb}  />
+                            <FontAwesomeIcon className="thumb"  icon={faThumbsUp} />
+                            <FontAwesomeIcon className="thumb" icon={faThumbsUp} />
+                            <FontAwesomeIcon className="thumb" icon={faThumbsUp} />
+                            <FontAwesomeIcon className="thumb" icon={faThumbsUp} />
+                        (152 ratings)
+
+                        </div>
+
+                    </Row>
+                </Col>
+
+
+                <Col sm={8}>
+                    <Row>
+                        <Col><div className="ptName">Wyman Yip</div></Col>
+                        <Col xs={6}>
+                            <div className="catallbox">
+                                <div className="catBox">
+                                    <FontAwesomeIcon className="tick" icon={faCheck} />    Functional training
+                            </div>
+                                <div className="catBox">
+                                    <FontAwesomeIcon className="tick" icon={faCheck} />    Core Fusion
+                            </div>
+                                <div className="catBox">
+                                    <FontAwesomeIcon className="tick" icon={faCheck} />    Yoga
+                            </div>
+                                <div className="catBox">
+                                    <FontAwesomeIcon className="tick" icon={faCheck} />    Stretching
+                            </div>
+                                <div className="catBox">
+                                    <FontAwesomeIcon className="tick" icon={faCheck} />    Keep fit
+                            </div>
+                                <div className="catBox">
+                                    <FontAwesomeIcon className="tick" icon={faCheck} />    Boxing
+                            </div>
+                            </div>
+
+                        </Col>
+                        <Col>
+                            <div className="preview">
+                                <Link to="{props.preview_filepath}">
+                                    <div >
+                                     <FontAwesomeIcon className="playBtn" icon={faPlayCircle}></FontAwesomeIcon>
+                                    </div>
+                            </Link>
+                            
+                            </div>
+                        </Col>
+                    </Row>
+                    
+                    <Row>
+                        <div className="intro">
+                            本人184cm 180lb 你可以上我網頁睇下丫，咁我健身年資係8年，當中4年專心參與健美運動🙌🏻 ⚜️2018年8月25号，
+                            中國香港體適能總會-國際健美比賽181cm以上男子型體模特兒-第5名 ⚜️2020年Global Classic 健美比賽，
+                            180cm以上男子形體模特兒新秀-第3名
+                            ⚜️2020年Global Classic健美比賽，180cm以上男子形體模特兒公開組-第5名 www.hkpowerfitness.com
+                    </div>
+                    </Row>
+
+                    <Row>
+
+                        <Col sm={8}></Col>
+
+                        <Col sm={4}>
+                            <div className="seeMoreBox">
+                                <Link className="seeMore" to="#">Get Your Lesson!<FontAwesomeIcon className="next" icon={faArrowAltCircleRight} /></Link>
+                            </div>
+                        </Col>
+                    </Row>
+
+
+
+                </Col>
+            </Row>
+
+
+
+        </Container>
+    )
+}

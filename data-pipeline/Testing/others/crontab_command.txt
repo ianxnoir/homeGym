@@ -1,0 +1,6 @@
+(1) sudo service cron start
+(2) input the command: crontab -e
+(3) input the command: 
+    */1 * * * * 
+    psql -U timkong -f /mnt/c/Users/Timkong/Documents/Tecky_Lessons/L42_2021-01-27_DAE011_FinalProject/Project/home-gym/data-pipeline/Testing/others/write-stream-to-dataWarehouse.sql testingdata
+    psql -U postgres -h localhost -p 5434 -d testingdata -f C:\Users\Timkong\Documents\Tecky_Lessons\L42_2021-01-27_DAE011_FinalProject\Project\home-gym\data-pipeline\Testing\others\write-stream-to-dataWarehouse.sql

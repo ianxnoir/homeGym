@@ -1,0 +1,704 @@
+{
+  "course": [
+    {
+      "pt_id": 1,
+      "course_name": "伸展瑜珈 Gentle Stretch ",
+      "detail": "Graceful for all levels, students are encouraged to go deeper and experience in a meditative way",
+      "category_id1": 0,
+      "category_id2": 1
+    },
+    {
+      "pt_id": 2,
+      "course_name": "有肌修身瑜伽 Yoga Workout",
+      "detail": "揉合瑜伽伸展和普拉提深層肌肉力量訓練， 配合有節奏呼吸，從而加強身體適當柔靭度和關節穩定性。",
+      "category_id1": 1,
+      "category_id2": 0
+    },
+    {
+      "pt_id": 3,
+      "course_name": "普拉提 Pilates",
+      "detail": "普拉提重點強化核心、鍛鍊肌肉、改善平衡及姿勢。墊上普拉提及普拉提塑身機兩者都是趣味及挑戰性兼備的課程，讓您雕琢出勻稱身段。此外，普拉提亦有助傷後恢復及預防受傷。",
+      "category_id1": 1,
+      "category_id2": 0
+    },
+    {
+      "pt_id": 4,
+      "course_name": "陰陽瑜珈 Yin Yang Yoga",
+      "detail": "初級(適合初學者)︰溫和及放鬆的瑜伽班",
+      "category_id1": 1,
+      "category_id2": 0
+    },
+    {
+      "pt_id": 5,
+      "course_name": "墊上普拉提與塑身機 COMBO PILATES REFORMER & MAT",
+      "detail": "此課程結合普拉提塑身機與墊上普拉提，透過多種功能運動和控制練習來調節身心。重點訓練核心和骨盆穩定性，以及脊柱和關節靈活度，力量訓練亦有助改善不良姿勢和肌膚結實度，令身體更挺拔。適合不同程度人士參加。",
+      "category_id1": 1,
+      "category_id2": 5
+    },
+    {
+      "pt_id": 6,
+      "course_name": "背部護理普拉提 Happy Back Pilates",
+      "detail": "透過伸展背部肌肉，能夠消除疲勞、緩解背痛。普拉提運動能夠協助腰背痛患者加快康復進度，更可鍛煉背部肌肉能力，從而改善日常不良的姿勢。",
+      "category_id1": 1,
+      "category_id2": 0
+    },
+    {
+      "pt_id": 7,
+      "course_name": "墊上普拉提運動 Mat Pilates",
+      "detail": "墊上普拉提運動源於德國大師Joseph Pilates，備受廣泛應用並創作不同的動作，以糾正錯誤姿勢，同時增加身體機能控制，呼吸節奏及肌肉力量。課程中將會使用不同工具配合，例如抗力球、抗力帶、瑜伽滾輪等。",
+      "category_id1": 1,
+      "category_id2": 0
+    },
+    {
+      "pt_id": 8,
+      "course_name": "普拉提塑身機 PILATES GROUP REFORMER",
+      "detail": "課程採用普拉提塑身機，利用彈簧負載阻力，帶來具挑戰性的全身鍛煉。這獨一無二的課程有效增強核心、全身力量和關節靈活度。課堂有助活化身體，讓身體全方位活動。每位教練均有不同的教學方法，所以每堂課皆能給您全新的體驗。適合所有水平人士參與。",
+      "category_id1": 1,
+      "category_id2": 5
+    },
+    {
+      "pt_id": 9,
+      "course_name": "空中瑜伽 Aerial Yoga",
+      "detail": "空中瑜伽是近年新興的瑜伽運動，利用柔軟的布索卸去部分身體重力，鍛煉身體柔軟度及張力，輕鬆練出空中倒吊姿勢。空中瑜伽適合任何人士，包括初學者或沒有經驗的學員，打破既有對瑜伽的觀念，帶來與別不同的全新體驗。",
+      "category_id1": 1,
+      "category_id2": 0
+    },
+    {
+      "pt_id": 10,
+      "course_name": "背部護理瑜伽 Back Care Yoga",
+      "detail": "背部瑜伽重點改善脊柱和關節的強度及穩定性。這個課程旨在教導良好的姿勢習慣和身體意識，視乎個別學員的情況而施教，打造無痛而強壯的身軀。",
+      "category_id1": 1,
+      "category_id2": 0
+    },
+    {
+      "pt_id": 11,
+      "course_name": "哈達瑜伽 Hatha Yoga",
+      "detail": "以練習式子為主的瑜伽課程。根據體位法及呼吸調息法等理論而設計的一系列瑜伽動作，有助淨化身體及心靈。",
+      "category_id1": 1,
+      "category_id2": 0
+    },
+    {
+      "pt_id": 1,
+      "course_name": "力量流瑜珈 Power Vinyasa",
+      "detail": "This class is a fusion of the Barre technique and traditional Pilates strength and cardio exercises. Set to upbeat music, it will provide high-energy interval peaks to drive sweat-induced, continual fat-burning. Central to the workout are resistance exercises on and off the bar that are athletically-based to shape and tone the body. Pilates props are also incorporated to provide a comprehensive total body workout that results in muscles being worked to the point of fatigue for that all-important caloric burn. You will leave feeling energised, knowing how to safely regress and progress exercises. Join in the fun and experience a full body Barre workout.",
+      "category_id1": 1,
+      "category_id2": 3
+    },
+    {
+      "pt_id": 2,
+      "course_name": "養生瑜伽 Restorative Yoga",
+      "detail": "一種節奏較慢的瑜伽練習，課程將使用各種輔具，讓身體在有外力支撐的狀況下，完全在體位法中獲得釋放。這類型練習能有助於刺激副交感神經，從而達到身心靈放鬆的狀態。",
+      "category_id1": 1,
+      "category_id2": 0
+    },
+    {
+      "pt_id": 3,
+      "course_name": "瘦身瑜珈 Slimming Yoga",
+      "detail": "初級(適合初學者)︰綜合性的瘦身瑜伽班",
+      "category_id1": 1,
+      "category_id2": 5
+    },
+    {
+      "pt_id": 6,
+      "course_name": "ADVANCED FLOW YOGA",
+      "detail": "Settle your mind with a longer, highly intense yoga session. We’ll challenge your limits with elaborate sequences made up of demanding postures and inversions, expanding, evolving and transform your experience through exploration and discovery. You’ll be encouraged to expand limiting belief, unlocking your potential and opening up new possibilities.\r\n\r\n \r\n\r\nYou’ll expand your perceptions and improve your discipline and determination, enabling a higher level of autonomy and self-sufficiency. You’ll walk away stronger, fitter and more flexible.",
+      "category_id1": 1,
+      "category_id2": 0
+    },
+    {
+      "pt_id": 7,
+      "course_name": "高温伸展 Hot Strench",
+      "detail": "伸展平日繃緊的筋骨及肌肉，減少痛楚之餘更能改善柔軟度及姿勢，同時放鬆身心。於高溫環境下伸展能夠更有效放鬆肌肉及結締組織。",
+      "category_id1": 0,
+      "category_id2": 1
+    },
+    {
+      "pt_id": 8,
+      "course_name": "Zen Deep Stretch",
+      "detail": "Zen Deep Stretch is a therapeutic based exercise class designed to awaken the spirit and focus the mind to guide your body into a place of relaxation, strength and wellness. The instructor uses therapeutic movement and hands-on assisted stretches to help you experience tension release, improved flexibility, better joint mobility and enhanced postural alignment.",
+      "category_id1": 0,
+      "category_id2": 1
+    },
+    {
+      "pt_id": 2,
+      "course_name": "\r\n高温流動瑜伽 Hot Flow ",
+      "detail": "流動瑜伽是一種以呼吸配合一系列自由串連動作的瑜伽課程。在加溫教室進行，熱力會提升訓練強度，身體亦能更有效地使用肌肉和其他結締組織。",
+      "category_id1": 1,
+      "category_id2": 7
+    },
+    {
+      "pt_id": 12,
+      "course_name": "Sterench & Tone",
+      "detail": "Strengthen connective tissue and stretch muscles you thought you never had. This class is designed to improve the elasticity of your muscles and restore and reaffirm comfortable muscle tone. An elasticized band and other fitness equipment may be used to enhance the toning workout. The result is a feeling of increased muscle control, flexibility and range of motion. Open to all levels.",
+      "category_id1": 0,
+      "category_id2": 5
+    },
+    {
+      "pt_id": 13,
+      "course_name": "STRETCH, ROLL & RELEASE",
+      "detail": "使用滾軸配合策略性伸展運動，舒緩長期處於緊張狀態的肌肉，減低不必要的壓力。",
+      "category_id1": 0,
+      "category_id2": 5
+    },
+    {
+      "pt_id": 14,
+      "course_name": "核心伸展 CORE & STRETCH",
+      "detail": "課程集中身體核心訓練，鍛煉肌肉及其穩定性。訓練主要針對腹部、下背部、肩部及臀圍的區域。根據個人的體質及姿勢，利用伸展動作幫助鍛煉身體的核心。",
+      "category_id1": 0,
+      "category_id2": 3
+    },
+    {
+      "pt_id": 15,
+      "course_name": "腹肌及伸展 ABS & STRETCH",
+      "detail": "此綜合課程有助強化核心肌群、舒緩身體壓力及放鬆崩緊的肌肉，並且讓大家了解核心肌力及激痛點放鬆治療(trigger point release)。",
+      "category_id1": 3,
+      "category_id2": 0
+    },
+    {
+      "pt_id": 16,
+      "course_name": "背痛舒緩放鬆班 Back Pain Release",
+      "detail": "教授為改善活動及身體姿勢而專門設計的運動，並讓參加者了解如何糾正不良姿勢及舒緩腰痛。",
+      "category_id1": 0,
+      "category_id2": 5
+    },
+    {
+      "pt_id": 17,
+      "course_name": "TRX Blast",
+      "detail": "suitable for all levels. Like TRX, this workout incorporates exercises performed using your own bodyweight to provide resistance to a suspension trainer. TRX Blast is a nonstop workout set to music, with a continuous flow of exercises to maintain cardio intensity and develop core strength. Exercises are synchronised to music to help maintain momentum and rhythm.",
+      "category_id1": 7,
+      "category_id2": 3
+    },
+    {
+      "pt_id": 18,
+      "course_name": "Kickbox",
+      "detail": "拳擊及強勁的健康舞音樂",
+      "category_id1": 2,
+      "category_id2": 5
+    },
+    {
+      "pt_id": 19,
+      "course_name": "Aero Dance",
+      "detail": "隨著音樂，有節奏地透過簡單的踏板健康舞動作，增強心肺功能，加強身體協調，達至燃燒脂肪的效果。",
+      "category_id1": 7,
+      "category_id2": 6
+    },
+    {
+      "pt_id": 20,
+      "course_name": "FTL Circuit ",
+      "detail": "針對修身增強肌力及改善平衡",
+      "category_id1": 6,
+      "category_id2": 3
+    },
+    {
+      "pt_id": 21,
+      "course_name": "BODYPUMP",
+      "detail": "一個結合音樂及槓鈴運動的重量訓練課程。以連續做輕至中等強度的重量訓練，幫助您塑身與去掉身體脂肪，增加力量與強健。此課程適合每個想要增加基礎代謝率，加速消耗你的卡路里，將肌力訓練加入有氧訓練的人。",
+      "category_id1": 6,
+      "category_id2": 5
+    },
+    {
+      "pt_id": 22,
+      "course_name": "BODY COMBAT",
+      "detail": "BODY COMBAT是以武術運動為靈感的高強度課程。利用來自空手道拳擊、跆拳道、太極與泰拳等多種不同門派的動作在激動人心的音樂下來獲得良好的心肺適能，消耗卡路里的同時提升身體的協調能力、反應和靈敏度。我們提供不同難度的訓練，讓所有人士都可以參與。",
+      "category_id1": 5,
+      "category_id2": 7
+    },
+    {
+      "pt_id": 23,
+      "course_name": "BODY BALANCE",
+      "detail": "訓練融合音樂動感、瑜伽、太極和普拉提。透過控制呼吸、集中力及一系列特定的伸展動作，創造一個整體全面的鍛煉，調節身體的和諧及平衡。",
+      "category_id1": 0,
+      "category_id2": 1
+    },
+    {
+      "pt_id": 24,
+      "course_name": "STEP MOVES",
+      "detail": "STEP MOVES訓練使用可調節踏板，學員將透過一連串低強度的動作有效地燃燒脂肪。配合音樂帶來的動感提升您的能量，來達到運動的多變性與趣味性，是一高強度、低衝擊且直接而有效的運動。",
+      "category_id1": 7,
+      "category_id2": 5
+    },
+    {
+      "pt_id": 25,
+      "course_name": "LEGS BUMS TUMS",
+      "detail": "重點鍛鍊下半身的訓練，旨在打造纖瘦的下半身及改善軀幹線條。訓練配合一些小工具或利用自身體重作阻力訓練，適合健身初學者。",
+      "category_id1": 4,
+      "category_id2": 5
+    },
+    {
+      "pt_id": 26,
+      "course_name": "SHAPE UO",
+      "detail": "利用身體重量和簡單器材的重量鍛鍊全身。運動強度由低至中等。適合初學人士。",
+      "category_id1": 6,
+      "category_id2": 5
+    },
+    {
+      "pt_id": 27,
+      "course_name": "懸吊訓練 SUSPENSION TRAINING\r\n",
+      "detail": "使用懸吊訓練器材打造的全身鍛煉。透過使用自身體重對抗地心吸力，可以自由控制運動的強度，加強身體的動態穩定性，同時鍛煉出一個強健而纖細的身段。課程將配合音樂，讓訓練融入節奏。",
+      "category_id1": 3,
+      "category_id2": 5
+    },
+    {
+      "pt_id": 28,
+      "course_name": "BODY BLAST",
+      "detail": "這是專為初學健身的會員而設的課程，透過循環式重量訓練提升整體的力量，打造更纖瘦和更緊實的線條。",
+      "category_id1": 6,
+      "category_id2": 5
+    },
+    {
+      "pt_id": 29,
+      "course_name": "HIIT高強度間歇訓練",
+      "detail": "是燒脂減磅的最佳選擇。訓練會在功能性訓練區域進行，其間會展開一連串高強度訓練並在當中加入短時間的休息作為恢復體力階段，能夠挑戰及提升你的攝氧量。",
+      "category_id1": 7,
+      "category_id2": 5
+    },
+    {
+      "pt_id": 30,
+      "course_name": "CORE核心訓練",
+      "detail": "核心肌肉訓練不只是提升腹部肌肉！在日常生活中，例如瑜伽、太極、行山、球類運動中，亦需要運用我們的核心肌肉。在訓練其間，我們會混合地使用自身體重、懸吊訓練和自由重量，針對性地為你強壯核心肌肉及提高肩膊的穩定性。",
+      "category_id1": 3,
+      "category_id2": 6
+    },
+    {
+      "pt_id": 31,
+      "course_name": "拳擊修身",
+      "detail": "拳擊是最挑戰體力的運動之一。此課堂助您快速消耗卡路里和燃燒脂肪，超越自己的極限，學習新的技巧，同時亦有助釋放壓力。",
+      "category_id1": 7,
+      "category_id2": 5
+    },
+    {
+      "pt_id": 32,
+      "course_name": "循環訓練 CIRCUITS",
+      "detail": "其中一種最受歡迎的阻力訓練，利用特定的重量及肌肉訓練配合，達致消耗卡路里和脂肪的最佳效果。全面地運用各種器械，包括啞鈴、壺鈴和槓鈴。循環訓練目的是令你在進行力量訓練時更有自信同時亦樂在其中。",
+      "category_id1": 6,
+      "category_id2": 7
+    },
+    {
+      "pt_id": 33,
+      "course_name": "塑身改造 GET LEAN",
+      "detail": "透過阻力訓練增加淨肌肉量和減低脂肪。這課程會運用自由重量和自身重量，加上不同的訓練模式，達到增肌減脂的目的。如果你的目標是增肌減脂，這就是您的最佳選擇。",
+      "category_id1": 6,
+      "category_id2": 5
+    },
+    {
+      "pt_id": 34,
+      "course_name": "初階力量訓練(大力士訓練)",
+      "detail": "農夫行、翻車胎、雪橇拖拉以及其他動作，能夠刺激你的心肺功能和力量。力量訓練能有效地減脂和提升力量，訓練的動作會因應不同參與者的程度而改變，即使初學者也能參加。",
+      "category_id1": 6,
+      "category_id2": 5
+    },
+    {
+      "pt_id": 35,
+      "course_name": "STRETCH",
+      "detail": "This is a great class to prepare for your workout, or as a cool down. You’ll do a series of stretches that’ll focus on improve the flexibility of different muscle groups. The class will help improve your joint mobility and muscle flexibility, and leave you feeling calm and relaxed.",
+      "category_id1": 0,
+      "category_id2": 5
+    },
+    {
+      "pt_id": 36,
+      "course_name": "Abs, Butts & Thighs",
+      "detail": "All Levels. A great class to start out with if you are new to exercise, are looking to work generally on your body and fitness, or to tone your lower body. Some classes use bands, tubes, weights or bars but equipment is always optional –every exercise can be done with or without. This class is also suitable for men.",
+      "category_id1": 5,
+      "category_id2": 6
+    },
+    {
+      "pt_id": 37,
+      "course_name": "Barre",
+      "detail": "This class is a fusion of the Barre technique and traditional Pilates strength and cardio exercises. Set to upbeat music, it will provide high-energy interval peaks to drive sweat-induced, continual fat-burning. Central to the workout are resistance exercises on and off the bar that are athletically-based to shape and tone the body. Pilates props are also incorporated to provide a comprehensive total body workout that results in muscles being worked to the point of fatigue for that all-important caloric burn. You will leave feeling energised, knowing how to safely regress and progress exercises. Join in the fun and experience a full body Barre workout.",
+      "category_id1": 1,
+      "category_id2": 7
+    },
+    {
+      "pt_id": 38,
+      "course_name": "BodyTrack",
+      "detail": "All levels. Talk about getting fit! BODYATTACK is a fast track to your personal peak condition. High powered music fires up a full-on workout, with contrasting styles and tempos adding novelty and variety to one of the best-loved programmes on the planet. Plenty of easy-to-follow options allows you the freedom to adjust your workout intensity, staying low in the moves for a lower impact class or going higher for the full cardio blast.",
+      "category_id1": 5,
+      "category_id2": 7
+    },
+    {
+      "pt_id": 39,
+      "course_name": "BodyCombat",
+      "detail": "All Levels. BODYCOMBAT is a fiercely energetic program inspired by martial arts and draws from a wide array of disciplines such as karate, boxing, taekwondo, tai chi and muay thai. You strike, punch, kick and kata your way through calories to superior cardio fitness. There is no one-to-one contact or sparring and no equipment is necessary.",
+      "category_id1": 2,
+      "category_id2": 7
+    },
+    {
+      "pt_id": 40,
+      "course_name": "BodyPump",
+      "detail": "All levels. Using barbell and weights, BODYPUMP is an awesome resistance training workout that improves strength whilst toning and shaping your muscles. The workout challenges all your major muscle groups by using the best weight-room exercises such as squats, presses, lifts and curls. You can adjust your own weights for a personalised workout.",
+      "category_id1": 6,
+      "category_id2": 5
+    },
+    {
+      "pt_id": 41,
+      "course_name": "Bosu Blast",
+      "detail": "All Levels. Our BOSU Blast class helps establish and reinforce balance, stability, and core strength and can include aerobic and strength training routines, flexibility exercises, and balance training. The BOSU Ball is a 3 dimensional piece of equipment. Flat-soled trainers with lateral support are recommended when attending BOSU Blast to provide maximum foot stability and safety.",
+      "category_id1": 3,
+      "category_id2": 7
+    },
+    {
+      "pt_id": 42,
+      "course_name": "Circuit Blitz",
+      "detail": "A Circuit Blitz class trains the body for activities performed in daily life and is also highly effective for fat burning. It utilises an array of equipment such as step boards, plates, bars, medicine balls, ropes and sometimes only your body weight for the workout, making it suitable for everyone of all fitness levels. Typically it takes a circuit-style format with 2-3 minutes on each of the various stations to simulate the interval-based training. A great way to strengthen the whole body, challenge coordination and improve balance. An easy-to-follow class that is not timed to music, so that each individual chooses the intensity and pace they wish to work at.",
+      "category_id1": 5,
+      "category_id2": 7
+    },
+    {
+      "pt_id": 43,
+      "course_name": "GRIT",
+      "detail": "GRIT™ is Les Mills' answer to HIIT (High Intensity Interval Training). This thirty minute class is not for the faint hearted! GRIT™ demands short sharp bursts of effort to allow you to reach maximum training zones. With the use of plates, stepboards and bodyweight exercises, train your way to athletic performance in the fastest possible way. A reasonable level of fitness is recommended due to the high intensity nature of this programme. We recommend attending three to five BODYPUMP™ classes before attending GRIT™ in order to familiarize yourself with the basic moves.",
+      "category_id1": 5,
+      "category_id2": 6
+    },
+    {
+      "pt_id": 44,
+      "course_name": "Power Abs",
+      "detail": "POWER ABS, An intensive class designed to hit your abdominals hard, concentrated on strengthening the abdominal muscles. Followed by ROLLER RELEASE, helping you release tension in the body by massaging away tight knots and improving flexibility. A great combination to improve your core strength and mobility.",
+      "category_id1": 3,
+      "category_id2": 6
+    },
+    {
+      "pt_id": 45,
+      "course_name": "Spartan Training",
+      "detail": "A circuit style metabolic training that targets cardiovascular fitness, muscular endurance, agility, body composition, and fat loss. Every workout is a unique physical and mental challenge, with different exercises, time intervals and equipment, to keep your body on track for results.",
+      "category_id1": 7,
+      "category_id2": 6
+    },
+    {
+      "pt_id": 46,
+      "course_name": "Tabata",
+      "detail": "Tabata was founded in Japan by Izumi Tabata. It is a high intensity interval training conducted typically in a circuit format. The method is designed so that each exercise lasts 4 minutes long, going through 8 intervals of 20 seconds at a very high intensity followed by 10 seconds of rest. Althernatively 2 exercises can be combined for an 8 min round at intervals of 40/20. Participants are encouraged to go at their max in each interval. Tabata training is known to improve both the aerobic system as well as the anaerobic system and is appropriate for participants looking for the next challenge in their fitness.",
+      "category_id1": 7,
+      "category_id2": 5
+    },
+    {
+      "pt_id": 47,
+      "course_name": "Terra Core",
+      "detail": "Utilising the newest training platform to hit the market – Terra Core – this circuit-style class is a total body workout that focuses on compound, multi-joint exercises and engages all large muscle groups. With one flat side and one cushioned side, the Terra Core platform creates movement variability and forces muscles to work harder, whilst improving balance. New challenges are endless with the Terra Core’s versatility as a cushioned step, a flat or unstable bench, a weight, and with the functionality to incorporate resistance bands.",
+      "category_id1": 3,
+      "category_id2": 6
+    },
+    {
+      "pt_id": 48,
+      "course_name": "Total Body Conditioning ",
+      "detail": "All Levels. A great class to start out with if you are new to exercise, are looking to work generally on your body and fitness, or to tone up both your upper and lower body. Some classes use bands, tubes, weights or bars but equipment is always optional –every exercise can be done with or without. This class is also suitable for men.",
+      "category_id1": 5,
+      "category_id2": 5
+    },
+    {
+      "pt_id": 49,
+      "course_name": "TRX Circuit",
+      "detail": "This class again involves exercises performed using your own bodyweight and a suspension trainer. TRX Circuit runs through some challenging interval training, with recovery segments after each round. Exercises are largely not synchronised to music, and each circuit incorporates strength training and cardio, much like Boot Camp training. TRX Super Circuit involves an extra-long circuit class.",
+      "category_id1": 7,
+      "category_id2": 6
+    },
+    {
+      "pt_id": 50,
+      "course_name": "ViPR (Vitality, Performance, Reconditioning)",
+      "detail": "All levels. ViPR is an acronym for Vitality, Performance, Reconditioning – the concept being to bridge the gap between movement and strength. A simple composite rubber tube with handles, the ViPR can be flipped, lifted, carried, thrown or rolled – over 9,000 different exercises that can be done with it. Come and experience this ingenious style of training.",
+      "category_id1": 5,
+      "category_id2": 6
+    },
+    {
+      "pt_id": 12,
+      "course_name": "Body Flow",
+      "detail": "BODYFLOW is the Yoga, Tai Chi, Pilates workout that builds flexibility and strength and leaves you feeling centered and calm. Controlled breathing, concentration and a carefully structured series of stretches, moves and poses to music create a holistic workout that brings the body into a state of harmony and balance.",
+      "category_id1": 3,
+      "category_id2": 1
+    },
+    {
+      "pt_id": 13,
+      "course_name": "Cardio Blast",
+      "detail": "A dynamic and energy-filled cardio/muscle training workout. Cycle through cardio and strength intervals on the step and BOSU, incorporating hand weights, body bars, and other equipment that will work your body head to toe. This low-impact, high-intensity class will not only increase your strength and balance, it will transform your body.",
+      "category_id1": 7,
+      "category_id2": 3
+    },
+    {
+      "pt_id": 14,
+      "course_name": "CXWORX",
+      "detail": "it is an intense 30-minute core-training workout designed to tighten and tone your midsection in the shortest amount of time possible. The class utilizes your body weight, free weights, and resistance tubing to challenge your balance, coordination and improve your functional strength.",
+      "category_id1": 3,
+      "category_id2": 5
+    },
+    {
+      "pt_id": 15,
+      "course_name": "Yoga Pilates Fusion",
+      "detail": "combines two popular mind body training styles to enhance core strength, flexibility and total body conditioning. A perfect mix of cardio and body sculpting exercises designed to lengthen lean muscles, increase stability and range of motion while decreasing the risk of injury.",
+      "category_id1": 1,
+      "category_id2": 3
+    },
+    {
+      "pt_id": 16,
+      "course_name": "POP Pilates",
+      "detail": "POP Pilates® is an incredible fusion of ab-chiseling and total body defining moves choreographed to upbeat pop songs. This intense, mat-based workout challenges students to rhythmically flow from one exercise to the next, developing a rock solid core while leaving no muscle untouched",
+      "category_id1": 1,
+      "category_id2": 5
+    },
+    {
+      "pt_id": 17,
+      "course_name": "Strength & Mobility",
+      "detail": "help improve functional strength for everyday living with mobility exercises that will help maintain flexibility and graceful movement patterns. These classes are great for all age groups as this format gives the instructor the ability to tailor their class to new exercisers while keeping it challenging to the most advanced students and everyone in between.  Millennials to seniors will learn new approaches to exercise using a variety of equipment in a safe, effective, friendly environment.",
+      "category_id1": 3,
+      "category_id2": 6
+    },
+    {
+      "pt_id": 18,
+      "course_name": "Taekwondo",
+      "detail": "Improve your strength, speed, stamina, balance, and flexibility while learning effective methods of self-defense! This Olympic-style (World Taekwondo Federation) martial arts class combines kicking and punching techniques with stretching, calisthenics, aerobics, and occasional non-contact sparring drills to provide a great full-body workout. We invite participants of all skill levels and fitness levels. Beginners are always welcome!",
+      "category_id1": 2,
+      "category_id2": 3
+    },
+    {
+      "pt_id": 19,
+      "course_name": "Tai Chi",
+      "detail": "Experience the moving meditative martial art of Yang Style Tai Chi. Tai Chi is an internal form of Kung Fu that has both health benefits and fighting applications. Tai Chi improves balance, strengthens bone density, lowers blood pressure, reduces arthritis inflammation, and stabilizes blood sugar. Tai Chi is a low impact workout perfect for all ages.",
+      "category_id1": 2,
+      "category_id2": 3
+    },
+    {
+      "pt_id": 20,
+      "course_name": "Muay Thai",
+      "detail": "Learn the basics of the traditional Thai martial art or hone your technique. The sessions include a mix of pad work, bag work drills and functional circuit conditioning exercises.",
+      "category_id1": 2,
+      "category_id2": 3
+    },
+    {
+      "pt_id": 21,
+      "course_name": "Boxing Burn",
+      "detail": "In this class trainers will teach you boxing techniques that strengthen your body, increase endurance and build muscle. Combined with cardio and toning exercises, this boxing workout produces unbelievable results.",
+      "category_id1": 2,
+      "category_id2": 7
+    },
+    {
+      "pt_id": 22,
+      "course_name": "BoxCore",
+      "detail": "2 long rounds:1 round of boxing with integrated core/ab movements1 round of strength & coreFloor side is focused on dynamic and isolated core exercises",
+      "category_id1": 2,
+      "category_id2": 3
+    },
+    {
+      "pt_id": 23,
+      "course_name": "Piloxing KO",
+      "detail": "PILOXING KNOCKOUT PILOXING Knockout is a 30-minute workout influenced by plyometrics, sports conditioning drills and functional training. Increase your fitness level, boost your confidence and strength, break boundaries and gain results. Knockout is a program that suits and challenges individuals of all fitness levels. It’s time to make your workout effective and FUN!",
+      "category_id1": 3,
+      "category_id2": 2
+    },
+    {
+      "pt_id": 24,
+      "course_name": "Regular Boxing Training",
+      "detail": "In this class, the coaches will teach you boxing techniques that strengthen your body, increase endurance and build muscle. The class also focuses on all elements of fitness cardio, flexibility and coordination. This boxing workout produces unbelievable results. Come ready to sweat, and prepare to leave empowered and feeling strong.",
+      "category_id1": 2,
+      "category_id2": 5
+    },
+    {
+      "pt_id": 25,
+      "course_name": "Boom",
+      "detail": "Boom is a martial arts inspired program designed to challenge your fitness and power incorporating strikes, boxing, kicking and strength exercises to give you a total body workout! This class is packed with metabolic circuits to increase your performance and conditioning all while having fun and varying your workout. Boxing gloves are provided but you can bring your own pair if you prefer.",
+      "category_id1": 2,
+      "category_id2": 5
+    },
+    {
+      "pt_id": 26,
+      "course_name": "Low Intensity Boxing Classes",
+      "detail": "Our Low Intensity Boxing class is a slower paced circuit style workout. With extra rest and less high intensity and high impact exercises. This is a great class for Boxing or Fitness beginners who want to get started training with us, but don’t quite feel ready to hop in some of our more intense classes!",
+      "category_id1": 2,
+      "category_id2": 5
+    },
+    {
+      "pt_id": 27,
+      "course_name": "Fighter Fit",
+      "detail": "Our Fighter Fit classes are an intense full body circuit style workout. Boxing will always be a big part of our classes, but also expect weights and other exercises too!",
+      "category_id1": 2,
+      "category_id2": 6
+    },
+    {
+      "pt_id": 28,
+      "course_name": "CARDIO KILLER",
+      "detail": "Enter our most sweaty workout and prepare to be mentally + physically challenged. Expect quick fire rounds of high-powered treadmill sessions with dynamic bodyweight sequences and a whole lot of cardio.",
+      "category_id1": 4,
+      "category_id2": 7
+    },
+    {
+      "pt_id": 29,
+      "course_name": "Functional Fitness",
+      "detail": "Carefully designed a wide range of drills for your abs, lower back, and legs. Different from the typical physical trainer who focus on a set of muscles on different machines, functional fitness starts from the core, with dynamic exercise to motivate different groups of muscles and joints, improving coordination, balance, stimulating your overall physical function. You will feel better, healthier,",
+      "category_id1": 3,
+      "category_id2": 4
+    },
+    {
+      "pt_id": 30,
+      "course_name": "BodyBalance",
+      "detail": "Find your centre in this yoga-based workout that’ll improve your mind, body and life. This class uses a series a simple yoga moves and embraces elements of Tai Chi and Pilates. You will bend and stretch to an inspiring soundtrack filled with songs that will help you relax and calm yourself. Controlled breathing, concentration and the carefully structured series of moves and poses are essential to creating a sense of calm.\r\n\r\n \r\n\r\nThis class is a great introduction to yoga. If you’ve already done some form of yoga before, you’ll love the variety of poses in this class. You’ll increase your core strength and improve your flexibility while reducing your stress levels. Walk away from class with a strengthened body and a lasting sense of wellbeing and calm. ",
+      "category_id1": 3,
+      "category_id2": 5
+    },
+    {
+      "pt_id": 31,
+      "course_name": "Core Flow Yoga",
+      "detail": "This yoga workout focuses on strengthening your core, for better spinal integrity and postural support. We’ll take you through a series of poses that are designed to transition from one to another so seamlessly you’ll feel like you’re flowing through them. You’ll repeat each pose several times, with small adjustments in intensity to build a stronger, more stable core.\r\n\r\nYour stronger core will give you better support for your spine and help improve your posture. You’ll also gain better awareness of your body, so that you’ll be able to move more efficiently in your everyday activities. The more you practice, the more control you’ll gain for all your movements, giving you more energy and learning you with a sense of personal empowerment.",
+      "category_id1": 3,
+      "category_id2": 1
+    },
+    {
+      "pt_id": 32,
+      "course_name": "REP FIT | Upper Body Strength",
+      "detail": "Medium-intensity weight training program focused on building core strength, stamina and aesthetics. - The classes are 100% dedicated to weighted superset movements with a focus on functional fitness, where aesthetics meets stamina. Monday and Thursday: Upper body Tuesday and Friday: Lower body Weekends: Full body",
+      "category_id1": 3,
+      "category_id2": 4
+    },
+    {
+      "pt_id": 33,
+      "course_name": "Muaythai - HIIT",
+      "detail": "Muaythai Fitness - all levels (suitable for anyone regardless of experience) Their classes will be divided into 2 parts, Muaythai training and circuit Fitness. Muaythai training Aim: -To Strengthen cardiac and respiratory muscles and improve the Muaythai technique. Method: -Through doing Muaythai Pad training and heavy bag training with our trainers. Circuit Training Aims: -To strengthen muscle de",
+      "category_id1": 4,
+      "category_id2": 2
+    },
+    {
+      "pt_id": 34,
+      "course_name": "Body Sculpt - AbsFocus & Beyond",
+      "detail": "This is an elevated version of AbsFocus™. Your core burns but better. It’s a full body exercise that still targets the core. With the use of equipment, weights, sliders, resistance bands, it’s a mobility and core focus class to the music beat. Great for sculpting and toning your overall physique",
+      "category_id1": 3,
+      "category_id2": 4
+    },
+    {
+      "pt_id": 35,
+      "course_name": "Weight Training",
+      "detail": "Weight training is a type of strength training that uses weights for resistance. By creating a stress to the muscles performed with free weights (e.g. barbells and dumbbells) or by using weight machines, these exercises will enable muscles to be activated and get stronger. Weight training is a great way to burn calories, gain muscle mass, increase flexibility, decrease body fat,",
+      "category_id1": 6,
+      "category_id2": 5
+    },
+    {
+      "pt_id": 36,
+      "course_name": "Strength and conditioning",
+      "detail": "A full body stretch using movements that flow smoothly to increase flexibility, decrease muscle tension, develop core strength and improve muscular balance.",
+      "category_id1": 6,
+      "category_id2": 5
+    },
+    {
+      "pt_id": 37,
+      "course_name": "Infusion",
+      "detail": "This is a bootcamp type of training consisting of total body circuit and weights through different stations. Each station is strategically laid out so that no single muscle group or exercise type is performed in succession allowing you to maximize each minute. Challenge yourself with this calorie-blasting workout.",
+      "category_id1": 5,
+      "category_id2": 7
+    },
+    {
+      "pt_id": 38,
+      "course_name": "LES MILLS TONE",
+      "detail": "Welcome to Les Mills Tone, an inclusive workout that lets you train at your own pace, no matter your fitness level. In this class, you’ll find an optimal mix of strength, cardio and core training, along with different training concepts to make sure everyone gets the best results. With a challenging combination of lunges, squats, functional training and tubing exercises, you’ll take your fitness to another level in just 45 minutes. The instructor is there to help you master the proper technique and exercise effectively at your current fitness level.\r\n\r\nThe class will help you build your fitness and strength, while improving your energy levels, flexibility, speed, balance, agility and your core strength. With this great foundation class, you’ll walk away with a sense of accomplishme",
+      "category_id1": 5,
+      "category_id2": 6
+    },
+    {
+      "pt_id": 39,
+      "course_name": "Training Circuit ",
+      "detail": "Use your bodyweight in this circuit-style training. We’ll teach you how to use resistance techniques to work your whole body, so you’ll leave with improved upper body strength and balance, core stability and flexibility. \r\n",
+      "category_id1": 5,
+      "category_id2": 6
+    },
+    {
+      "pt_id": 40,
+      "course_name": "CrossFit Lite",
+      "detail": "These classes are designed to give you an all-around workout and improve your fitness level. These hour-long sessions include various kinds of circuit-training, functional exercises to improve strength, and highly-varied movements to maximize your cardio-vascular and overall conditioning. This is a great way to get accustomed to group fitness training and prepare for CrossFit! Everyone is welcome",
+      "category_id1": 7,
+      "category_id2": 5
+    },
+    {
+      "pt_id": 41,
+      "course_name": "Step(I/A)",
+      "detail": "We’ll put you through your paces in this 30-minute fast paced workout. Inspired by a mix of various training concepts, this class is a High Intensity Interval Training (HIIT) session that incorporates dynamic movement training and athletic drills. We also manipulate the length of the work bouts and recovery periods to challenge your cardio endurance and maximize the amount of calories you burn.\r\n\r\nDynamic movement training helps improve your mobility, strength, balance and coordination. Athletic drills help your speed, agility, and explosive power. The cardio aspect of the workout will improve your endurance and energy levels. This full body workout also maximizes your body’s ability to burn calories, and also makes sure you keep burning hours after it’s over.\r\n\r\nKeep doing this class and you’ll get fitter, recover faster and work more efficiently.",
+      "category_id1": 7,
+      "category_id2": 5
+    },
+    {
+      "pt_id": 42,
+      "course_name": "Step Moves",
+      "detail": "Welcome to a freestyle aerobics class based around a raised platform. This workout involves fast-paced choreography with complex moves that’ll challenge you both physically and mentally. You’ll build both cardiovascular fitness and improve your coordination.",
+      "category_id1": 7,
+      "category_id2": 5
+    },
+    {
+      "pt_id": 43,
+      "course_name": "Body Combat",
+      "detail": "Punch and kick your way to fitness in this high-energy martial-arts inspired workout. The class is completely non-contact, with easy-to-follow moves inspired by a wide array of mixed martial arts, such as karate, boxing, taekwondo, tai chi and MuayThai. With each round, you’ll be motivated to up the intensity to make the most out of your workout. \r\n\r\n \r\n\r\nYou’ll work your legs, and tone your arms, backs and shoulders. Your core will also get a phenomenal core workout while you burn calories, and develop your coordination, agility and speed. This class with get you fit, fast, and strong, and leave you feeling empowered. \r\n\r\n \r\n\r\nAnd if you’re just starting out, you’ll be given low-impact options that’ll tailor each workout to your fitness level. We suggest that you start with 1 to 2 classes a week and work your way up from there.",
+      "category_id1": 3,
+      "category_id2": 7
+    },
+    {
+      "pt_id": 44,
+      "course_name": "BodyTrack",
+      "detail": "Welcome to a high-energy, whole body workout that caters to everyone, from total beginners to total addicts. You’ll push yourself to the limits from combining athletic moves such as running, lunging and jumping, with strength exercises such as push-ups and squats.\r\n\r\n\r\nYou’ll tone and shape your body while you work out to music that’ll energize and uplift you. At the end of the class, you’ll have burned plenty of calories and improved your stamina. The sports-inspired moves will also help improve your coordination, agility and, best of all, your functional fitness – the fitness that you need for everyday life. You’ll be quicker off the mark in everything you do.\r\n\r\nAnd if you’re just starting out, you’ll be given low-impact options that’ll tailor each workout to your fitness level. We suggest that you start with 1 to 2 classes a week and work your way up from there.",
+      "category_id1": 7,
+      "category_id2": 5
+    },
+    {
+      "pt_id": 45,
+      "course_name": "BODYSTEP® ATHLETIC",
+      "detail": "It’s time to take basic stepping to a new level. In this full-body cardio workout, it’s more than walking up and down a step. You’ll combine basic stepping movements with moves like burpees, pushups, and weight plate exercises to work both your lower and upper body. All of this is set to a mix of invigorating, hit music which will motivate you and add a whole lot of fun to your workout. \r\n\r\n \r\n\r\nDuring the workout, you’ll get your heart pumping, and increase your cardio fitness. You’ll shape and tone your butt and legs, and improving your coordination and agility. Best of all, you’ll keep burning calories long after the workout is over. \r\n\r\n \r\n\r\nAnd if you’re just starting out, you’ll be given low-impact options that’ll tailor each workout to your fitness level. We suggest that you start with 1 to 2 classes a week and work your way up from there.",
+      "category_id1": 7,
+      "category_id2": 5
+    },
+    {
+      "pt_id": 46,
+      "course_name": "BODYATTACK",
+      "detail": "Welcome to a high-energy, whole body workout that caters to everyone, from total beginners to total addicts. You’ll push yourself to the limits from combining athletic moves such as running, lunging and jumping, with strength exercises such as push-ups and squats.\r\n\r\n\r\nYou’ll tone and shape your body while you work out to music that’ll energize and uplift you. At the end of the class, you’ll have burned plenty of calories and improved your stamina. The sports-inspired moves will also help improve your coordination, agility and, best of all, your functional fitness – the fitness that you need for everyday life. You’ll be quicker off the mark in everything you do.\r\n\r\nAnd if you’re just starting out, you’ll be given low-impact options that’ll tailor each workout to your fitness level. We suggest that you start with 1 to 2 classes a week and work your way up from there.",
+      "category_id1": 7,
+      "category_id2": 5
+    },
+    {
+      "pt_id": 47,
+      "course_name": "TRX Bodyweight Workout: Build Muscle And Get Fit At Home | Home Workout Muscle Building Course",
+      "detail": "TRX to build muscle ",
+      "category_id1": 6,
+      "category_id2": 4
+    },
+    {
+      "pt_id": 48,
+      "course_name": "BODYPUMP",
+      "detail": "This full-body barbell workout targets all your major muscle groups. Based on ‘The Rep Effect’, this proven formula will have you exhausting your muscles using light to moderate weights to perform high repetitions, which is the secret to developing lean, athletic muscle. Combined with invigorating music and instructors who pump out encouragement and motivation, you’ll get lean and fit, fast.\r\n\r\n \r\n\r\nDuring the class, you’ll tone and shape your entire body, without adding bulky muscles. You’ll also increase your core strength and improve your bone health. You’ll leave the class feeling challenged, motivated, and ready to come back for more. \r\n\r\n ",
+      "category_id1": 6,
+      "category_id2": 5
+    },
+    {
+      "pt_id": 49,
+      "course_name": "HIIT X STRENGTH",
+      "detail": "Build your functional body strength in this focused strength training class. You’ll challenge yourself with a combination of loaded and body weight exercises, alternating between muscular endurance and balance exercises. You’ll build functional strength for your whole body, as well as enhance your muscular endurance and metabolism. Walk away feeling pumped and with more lean muscle mass.",
+      "category_id1": 6,
+      "category_id2": 4
+    },
+    {
+      "pt_id": 50,
+      "course_name": "HIIT X POWER",
+      "detail": "It’s time to add more power to your workouts. In this class, we focus on short but explosive workout periods, combined with adequate rest periods. You’ll use your body’s natural movement patterns in exercises that will use either body weight or loaded weights in fast-paced moves that will push your limits. You’ll work your whole body for a dynamic balance between speed and muscle strength, and with an enhanced athletic performance.",
+      "category_id1": 6,
+      "category_id2": 4
+    },
+    {
+      "pt_id": 27,
+      "course_name": "GO HARDCORE",
+      "detail": "This 30-minute class is an effective workout that specifically targets and strengthens your core muscles. We combine standing core exercises that’ll have you bending, lifting and twisting, with strength exercises to build a leaner, fitter waistline. The exercises will consist of wholly integrated movements that will have engage multiple muscles.\r\n\r\nYou’ll leave the class with a stronger core, which will give you getter balance, mobility, stability and improved posture. You’ll also build a strong foundation that will help to increase your muscle efficiency and power. You can use this class as a warm up to your own workout, as a total workout or even to recover after a period of heavy training.\r\n\r\nHARDCORE+\r\n\r\nWe go hardcore for a full 45 minutes. We’ll target and strengthen your core muscles, which is the powerhouse for all your body movements. You’ll get better flexibility, while building a strong foundation to increase muscle efficiency and power.",
+      "category_id1": 6,
+      "category_id2": 4
+    },
+    {
+      "pt_id": 28,
+      "course_name": "HARDCORE CHALLENGE",
+      "detail": "Get your heart pumping in this total body strength and conditioning workout. This class focuses on functional movements for the whole, to build your strength, muscular endurance and cardiovascular strength. We’ll show you dynamic movements that’ll improve your mobility, coordination and speed. You’ll walk away feeling stronger, and energised.",
+      "category_id1": 6,
+      "category_id2": 4
+    },
+    {
+      "pt_id": 29,
+      "course_name": "HARDCORE MAXX",
+      "detail": "We’ll put you through your paces in this 30-minute fast paced workout. Inspired by a mix of various training concepts, this class is a High Intensity Interval Training (HIIT) session that incorporates dynamic movement training and athletic drills. We also manipulate the length of the work bouts and recovery periods to challenge your cardio endurance and maximize the amount of calories you burn.\r\n\r\nDynamic movement training helps improve your mobility, strength, balance and coordination. Athletic drills help your speed, agility, and explosive power. The cardio aspect of the workout will improve your endurance and energy levels. This full body workout also maximizes your body’s ability to burn calories, and also makes sure you keep burning hours after it’s over.\r\n\r\nKeep doing this class and you’ll get fitter, recover faster and work more efficiently.",
+      "category_id1": 6,
+      "category_id2": 4
+    },
+    {
+      "pt_id": 30,
+      "course_name": "BODYBLAST",
+      "detail": "Work your whole body to enhance your strength, balance, core stability and flexibility. Working as a group for more motivation, we’ll use resistance techniques through multiple drills and exercises for this bodyweight suspension training.  ",
+      "category_id1": 6,
+      "category_id2": 5
+    }
+  ]
+}
