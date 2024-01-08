@@ -1,0 +1,53 @@
+name: CI/CD Workflow
+
+on:
+  push:
+    branches:
+      - production
+
+jobs:
+  react-build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+        
+      - name: Set up Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: 'latest'
+          
+      - name: Install dependencies and build React app
+        working-directory: my-app/
+        run: |
+          yarn install
+          yarn build
+        env:
+          REACT_APP_BACKEND_URL: https://api.ian-lee.site
+          BUCKET_NAME: gympj
+          CLOUDFRONT_DISTRIBUTION: E1H963L55U8MCQ
+
+      - name: Upload build artifacts
+        uses: actions/upload-artifact@v2
+        with:
+          name: react-build
+          path: my-app/build
+
+  react-deploy:
+    runs-on: ubuntu-latest
+    needs: react-build
+    steps:
+      - name: Download build artifacts
+        uses: actions/download-artifact@v2
+        with:
+          name: react-build
+          path: my-app/build
+
+      - name: Install AWS CLI
+        run: |
+          pip install awscli
+
+      - name: Deploy to S3 and invalidate CloudFront
+        run: |
+          aws s3 sync my-app/build s3://gympj --delete
+          aws cloudfront create-invalidation --distribution-id E1H963L55U8MCQ --paths "/*"
